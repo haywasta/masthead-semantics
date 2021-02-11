@@ -1,7 +1,12 @@
 {logo}
 The Solar System
 
-
+[Stars]
+[Terrestrial planets]
+[Gas giants]
+[Dwarf planets]
+[Asteroids]
+[Comets]
 
 ---
 
